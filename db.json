@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "bnmgbhmfgn",
+      "category": "Non Vegeterian",
+      "freshness": "Standard",
+      "cost": "34",
+      "comment": "vnhfhrhehedtetwar",
+      "date": "2023-03-20T18:30:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
